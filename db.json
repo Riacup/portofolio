@@ -1,6 +1,6 @@
 {"portfolio": [
       { "id": 1, "img": "img-1", "title": "SI Cuti Online", "description" : "Sebuah sistem yang digunakan untuk karyawan saat mengajukan cuti tahunan maupun cuti sakit secara online" },
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat untuk memenuhi mata kuliah Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan tentang wisata yang ada di Jogja"},
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat untuk memenuhi mata kuliah Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan tentang wisata yang ada di Jogja"},
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat untuk memenuhi mata kuliah Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan tentang wisata yang ada di Jogja"}
+      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"},
+      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"},
+      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"}
 ]}
