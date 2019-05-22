@@ -1,5 +1,6 @@
-{"portfolio": [
-      { "id": 1, 
+{
+"portfolio": [{ 
+       "id": 1, 
        "img": "pf-web", 
        "title": "SI Cuti Online", 
        "description" : "Web Project - Frontend Developer" 
