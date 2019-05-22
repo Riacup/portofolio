@@ -13,5 +13,20 @@
        "img" : "pf-web", 
        "title": "SI OkeAja", 
        "description" : "Web Project - Frontend Developer"
+      }
+      { "id": 4, 
+       "img": "pf-web", 
+       "title": "SI Cuti Online", 
+       "description" : "Web Project - Frontend Developer" 
+      },
+      { "id": 5, 
+       "img" : "pf-desain", 
+       "title": "Cupi Store", 
+       "description" : "Design Project - User Interface"
+      },
+      { "id": 6, 
+       "img" : "pf-web", 
+       "title": "SI OkeAja", 
+       "description" : "Web Project - Frontend Developer"
       }]
 }
