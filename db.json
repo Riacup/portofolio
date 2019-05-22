@@ -1,6 +1,17 @@
 {"portfolio": [
-      { "id": 1, "img": "img-1", "title": "SI Cuti Online", "description" : "Sebuah sistem yang digunakan untuk karyawan saat mengajukan cuti tahunan maupun cuti sakit secara online" },
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"},
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"},
-      { "id": 2, "img" : "img-2", "title": "SI OkeAja", "description" : "Sistem yang dibuat pada Proyek Aplikasi 3 tentang sebuah sistem informasi yang menjelaskan wisata di Jogja"}
+      { "id": 1, 
+       "img": "pf-web", 
+       "title": "SI Cuti Online", 
+       "description" : "Web Project - Frontend Developer" 
+      },
+      { "id": 2, 
+       "img" : "pf-design", 
+       "title": "Cupi Store", 
+       "description" : "Design Project - User Interface"
+      },
+      { "id": 2, 
+       "img" : "pf-web", 
+       "title": "SI OkeAja", 
+       "description" : "Web Project - Frontend Developer"
+      },
 ]}
